@@ -2,7 +2,8 @@
 
 /* base */
 :root {
-  --primary-color: rgb(29, 161, 242);
+  /* --primary-color: rgb(29, 161, 242); */
+  --primary-color: rgb(0, 172, 238);
 }
 
 * {
